@@ -9,8 +9,8 @@
   "professeurs": [],
   "encadrements": [],
   "soutenances": [],
-  "rapports": [],
-  "commentaires": []
+  "suivi": [],
+  "edt": []
 }
 
 // Commande pour lancer :
@@ -105,11 +105,5 @@ export default {
 }
 </script>
 
-// Répète la même structure pour :
-// - ProfesseurModel.js / ProfesseurController.js / ProfesseursView.vue
-// - EncadrementModel.js / Controller / View
-// - SoutenanceModel.js / Controller / View
-// - RapportModel.js / Controller / View
-// - CommentaireModel.js / Controller / View
 
 ```
